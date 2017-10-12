@@ -1,6 +1,7 @@
 
 * Itinerary
-** TODO 2017-05-10
+** DONE 2017-10-05
+   CLOSED: [2017-10-05 Thu 17:30]
 *** DONE Node.js install
     CLOSED: [2017-10-05 Thu 15:44]
 - Using NVM over standard pkg install
@@ -33,6 +34,20 @@
 *** DONE Editors
     CLOSED: [2017-10-05 Thu 16:39]
 - Atom
+** TODO 2017-10-12
+   SCHEDULED: <2017-10-12 Thu 14:30>
+*** TODO What's our first project?
+*** TODO Javascript Basics
+- Functions
+- Varibles
+- Mozilla Developer Network documentation (MDN) vs w3schools on google
+- Objects, arrays
+*** TODO ES6 (2015) In Depth Intro
+- Babel
+- Classes
+- import vs require
+- destructuring assignment, spread operator
+- Babel reminder
 
 
 * Future
@@ -40,3 +55,5 @@
 ** Vim (Far future)
 ** Intro to node / package.json
 ** Git conflicts / merge / "development" branch
+** Asyncronous Javascript / timers / threading
+** Immutable vs. mutable datatypes
