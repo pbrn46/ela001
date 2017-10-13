@@ -37,23 +37,43 @@
 ** TODO 2017-10-12
    SCHEDULED: <2017-10-12 Thu 14:30>
 *** TODO What's our first project?
-*** TODO Javascript Basics
-- Functions
-- Varibles
-- Mozilla Developer Network documentation (MDN) vs w3schools on google
-- Objects, arrays
+*** DONE Javascript Basics
+    CLOSED: [2017-10-12 Thu 17:48]
+**** DONE For iterator loops
+     CLOSED: [2017-10-12 Thu 16:44]
+**** DONE While loops
+     CLOSED: [2017-10-12 Thu 17:47]
+**** DONE if statement
+     CLOSED: [2017-10-12 Thu 16:44]
+**** DONE modulus (%) operator
+     CLOSED: [2017-10-12 Thu 16:44]
+**** DONE Variables
+     CLOSED: [2017-10-12 Thu 16:45]
+**** DONE Mozilla Developer Network documentation (MDN) vs w3schools on google
+     CLOSED: [2017-10-12 Thu 16:45]
+**** DONE Equality (==) vs strict equality (===)
+     CLOSED: [2017-10-12 Thu 17:47]
+**** DONE Functions
+     CLOSED: [2017-10-12 Thu 17:47]
+*** DONE Project Euler
+    CLOSED: [2017-10-12 Thu 17:47]
+**** DONE Problem 01
+     CLOSED: [2017-10-12 Thu 17:48]
+**** https://projecteuler.net/
+
+* Future
+*** TODO Objects, arrays
 *** TODO ES6 (2015) In Depth Intro
 - Babel
+  - Kind of like SASS to CSS for ES6/2015 (or others) to Javascript
 - Classes
 - import vs require
 - destructuring assignment, spread operator
 - Babel reminder
-
-
-* Future
-** jQuery / Bootstrap integration
-** Vim (Far future)
-** Intro to node / package.json
-** Git conflicts / merge / "development" branch
-** Asyncronous Javascript / timers / threading
-** Immutable vs. mutable datatypes
+*** TODO jQuery / Bootstrap integration
+*** TODO Vim (Far future)
+*** TODO Intro to node / package.json
+*** TODO Git conflicts / merge / "development" branch
+*** TODO Asyncronous Javascript / timers / threading
+*** TODO Immutable vs. mutable datatypes
+*** TODO Licensing / Open Source Licenses
