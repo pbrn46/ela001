@@ -1,12 +1,23 @@
 #+TITLE: Ela's Itinerary and Curriculum
 #+AUTHOR: Boris Wong
-* Itinerary
-** TODO Day 3
-   SCHEDULED: <2017-10-13 Fri 14:30>
+* Next Session
+** TODO Day
+   SCHEDULED: <2017-10-17 Tue 14:30>
 *** TODO Have a project to work on
-*** TODO Project Euler 002
+**** Shell game?
+*** TODO node.js ~nodemon~ for watching scripts
+*** TODO Javascript Basics 002 - Functions
+**** TODO Returning in a function
+**** TODO Arguments in a function
+* Session Log
+** DONE Day 3
+   CLOSED: [2017-10-15 Sun 23:40] SCHEDULED: <2017-10-15 Sun 23:30>
+*** DONE Project Euler 002
+    CLOSED: [2017-10-15 Sun 23:40]
 **** Fibonacci
-*** TODO Javascript Basics 002
+*** DONE codewars.com problem
+   CLOSED: [2017-10-15 Sun 23:40]
+**** remove first and last character of string
 ** DONE Day 2
    CLOSED: [2017-10-12 Thu 18:46] SCHEDULED: <2017-10-12 Thu 14:30>
 *** DONE What's our first project?
@@ -67,9 +78,10 @@
 
 *** DONE Editors
     CLOSED: [2017-10-05 Thu 16:39]
-- Atom
+
 * Future
 *** TODO objects
+*** TODO Shell game
 *** TODO arrays
 *** TODO ES6 (2015) In Depth Intro
 **** TODO Babel
