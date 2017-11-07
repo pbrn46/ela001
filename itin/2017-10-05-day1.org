@@ -1,0 +1,32 @@
+* DONE Node.js install
+  CLOSED: [2017-10-05 Thu 15:44]
+  - Using NVM over standard pkg install
+  - =nvm list= / =nvm install=
+
+* DONE React on node
+  CLOSED: [2017-10-05 Thu 16:39]
+  - =create-react-app=
+  - =npm run start= / =npm run test= / =npm run build=
+  - React functional and class components
+  - =props=
+  - =props.children=
+
+* DONE JS / ES review
+  CLOSED: [2017-10-05 Thu 16:39]
+  - ES6 / ES2015
+
+* DONE Git Review
+  CLOSED: [2017-10-05 Thu 17:19]
+  - git CLI
+  - git init
+  - git commit -m "MESSAGE"
+  - git config
+    - https://help.github.com/articles/setting-your-username-in-git/#platform-mac
+  - .gitignore (created automatically by create-react-app)
+
+* DONE React Overview
+  CLOSED: [2017-10-05 Thu 16:39]
+
+* DONE Editors
+  CLOSED: [2017-10-05 Thu 16:39]
+

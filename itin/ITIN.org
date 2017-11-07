@@ -1,0 +1,42 @@
+#+TITLE: Ela's Itinerary and Curriculum
+#+AUTHOR: Boris Wong
+#+STARTUP: indent
+
+* Next Session
+** TODO Day
+   SCHEDULED: <2017-10-17 Tue 14:30>
+*** TODO Have a project to work on
+**** Shell game?
+*** TODO node.js ~nodemon~ for watching scripts
+*** TODO Javascript Basics 002 - Functions
+**** TODO Returning in a function
+**** TODO Arguments in a function
+* Session Log
+** DONE Correspondence
+CLOSED: [2017-11-07 Tue 11:40]
+[[./2017-11-07-correspondence.org]]
+** DONE Day 3
+CLOSED: [2017-10-15 Sun 23:40] SCHEDULED: <2017-10-15 Sun 23:30>
+[[./2017-10-15-day3.org]]
+** DONE Day 2
+CLOSED: [2017-10-12 Thu 18:46] SCHEDULED: <2017-10-12 Thu 14:30>
+[[./2017-10-12-day2.org]]
+** DONE Day 1
+CLOSED: [2017-10-05 Thu 16:39] SCHEDULED: <2017-10-05 Thu 14:30>
+[[./2017-10-05-day1.org]]
+* Future
+*** TODO objects
+*** TODO Shell game
+*** TODO arrays
+*** TODO ES6 (2015) In Depth Intro
+**** TODO Babel
+**** TODO Classes
+**** TODO import vs require
+**** TODO destructuring assignment, spread operator
+**** TODO Babel reminder*** TODO jQuery / Bootstrap integration
+*** TODO Vim (Far future)
+*** TODO Intro to node / package.json
+*** TODO Git conflicts / merge / "development" branch
+*** TODO Asyncronous Javascript / timers / threading
+*** TODO Immutable vs. mutable datatypes
+*** TODO Licensing / Open Source Licenses

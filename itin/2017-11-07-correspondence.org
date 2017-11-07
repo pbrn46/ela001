@@ -1,0 +1,18 @@
+* DONE codewars.com
+  CLOSED: [2017-11-07 Tue 12:04]
+* DONE Functions and Loops
+  CLOSED: [2017-11-07 Tue 11:40]
+** DONE =return= statement
+   CLOSED: [2017-11-07 Tue 11:40]
+The =return= statement will actually quit the function, and as a side effect
+quit looping too, since the loop is inside the function
+
+That's why, during your for loop as you are checking it, you actually _need_ to
+check all of the items before you know that they all are not equal.
+
+If the =return false= is inside the for loop, you are saying "For every item,
+check if any is true. If it is, then tell me. If it isn't, *tell me it's not but
+don't keep checking the next one*."
+
+** DONE =break= and =continue= statement
+   CLOSED: [2017-11-07 Tue 11:44]

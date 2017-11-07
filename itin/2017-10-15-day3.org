@@ -1,0 +1,6 @@
+* DONE Project Euler 002
+  CLOSED: [2017-10-15 Sun 23:40]
+** Fibonacci
+* DONE codewars.com problem
+  CLOSED: [2017-10-15 Sun 23:40]
+** remove first and last character of string

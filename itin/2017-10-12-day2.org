@@ -1,0 +1,25 @@
+* DONE What's our first project?
+  CLOSED: [2017-10-12 Thu 18:46]
+** Start planning on what project to work on.
+* DONE Javascript Basics 001
+  CLOSED: [2017-10-12 Thu 17:48]
+** DONE =for= iterator loops
+   CLOSED: [2017-10-12 Thu 16:44]
+** DONE =while= loops
+   CLOSED: [2017-10-12 Thu 17:47]
+** DONE =if= statement
+   CLOSED: [2017-10-12 Thu 16:44]
+** DONE modulus (=%=) operator
+   CLOSED: [2017-10-12 Thu 16:44]
+** DONE Variables
+   CLOSED: [2017-10-12 Thu 16:45]
+*** Variable Scope
+** DONE Mozilla Developer Network documentation (MDN) vs w3schools on google
+   CLOSED: [2017-10-12 Thu 16:45]
+** DONE Equality (~==~) vs strict equality (~===~) briefing
+   CLOSED: [2017-10-12 Thu 17:47]
+** DONE Functions
+   CLOSED: [2017-10-12 Thu 17:47]
+** DONE Project Euler 001
+   CLOSED: [2017-10-12 Thu 17:47]
+*** https://projecteuler.net/
