@@ -10,6 +10,13 @@
 **** TODO Returning in a function
 **** TODO Arguments in a function
 * Session Log
+** DONE Correspondence
+   CLOSED: [2017-11-07 Tue 11:40]
+*** DONE Functions and Loops
+    CLOSED: [2017-11-07 Tue 11:40]
+**** DONE `return` and `break` statements
+     CLOSED: [2017-11-07 Tue 11:40]
+
 ** DONE Day 3
    CLOSED: [2017-10-15 Sun 23:40] SCHEDULED: <2017-10-15 Sun 23:30>
 *** DONE Project Euler 002
